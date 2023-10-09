@@ -1,4 +1,8 @@
 # metafar-atm
+## Descripcion
+Esta aplicación es una solución de cajero automático (ATM) que permite a los usuarios realizar operaciones bancarias básicas, como consultar saldos, retirar dinero y ver el historial de transacciones de sus tarjetas. Utiliza una base de datos para gestionar la información de las tarjetas de los usuarios y sus operaciones, y proporciona una capa de autenticación segura para garantizar la privacidad y seguridad de las transacciones financieras.
+
+## Swagger
 Acceso a swagger desde: https://localhost:7068/swagger/index.html
 
 ## Tarjetas de acceso
